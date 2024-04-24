@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo watervis
+=======
+Hallo waterkak
+>>>>>>> UpdateText
